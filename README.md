@@ -6,4 +6,4 @@ cd tes-ff
 
 ls
 
-python tes-ff.py
+python lacak.py

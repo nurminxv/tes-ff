@@ -6,4 +6,4 @@ cd tes-ff
 
 ls
 
-python tes-ff
+python tes-ff.py
